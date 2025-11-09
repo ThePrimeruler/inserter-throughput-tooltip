@@ -1,0 +1,17 @@
+{
+    "name": "inserter-throughput-tooltip",
+    "version": "0.0.1",
+    "title": "Inserter Throughput Tooltips",
+    "author": "Primeruler",
+    "factorio_version": "2.0",
+    "description": "Adds Some Inserter Items/Sec Values To Their Tooltips.",
+    "settings": ["settings.lua"],
+    "homepage":"https://github.com/ThePrimeruler/space-age-machine-tiers",
+    "dependencies": [
+        "base",
+        "? space-age",
+        "? quality",
+        "(?) space-age-machine-tiers"
+    ],
+    "space_travel_required": true
+}
